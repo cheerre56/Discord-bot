@@ -1,0 +1,28 @@
+{
+    "dbb": {
+        "prefixes": {
+            "main": "",
+            "servers": {}
+        },
+        "owners": []
+    },
+    "discord": {
+        "servers": {
+            "982672304972660836": {
+                "snipe": "982672304972660836"
+            }
+        },
+        "members": {
+            "454944896860684289": {
+                "SlimeCoin": 500
+            }
+        },
+        "users": {
+            "454944896860684289": {
+                "kittycount": 11
+            }
+        }
+    },
+    "blocks": {},
+    "custom": {}
+}
